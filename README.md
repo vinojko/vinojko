@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Vinojkos GitHub stats](https://github-readme-stats.vercel.app/api?username=vinojko&include_all_commits=true&count_private=true)](https://github.com/vinojko/github-readme-stats)
+[![Vinojkos GitHub stats](https://github-readme-stats.vercel.app/api?username=vinojko&count_private=true)](https://github.com/vinojko/github-readme-stats)
 
 <!--
 **vinojko/vinojko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
