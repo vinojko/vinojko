@@ -1,4 +1,10 @@
 ### Hi there 👋
+Hi there! I'm a student at Faculty of Electrical Engineering and Computer Science, University of Maribor with a passion for coding. I've worked with Unity and Flutter in the past and I'm currently learning React.
+
+- 🔭 I’m currently working on MOBI-CPR
+- 🌱 I’m currently learning React
+
+
 [![Vinojkos GitHub stats](https://github-readme-stats.vercel.app/api?username=vinojko&count_private=true&include_all_commits=true)](https://github.com/vinojko/github-readme-stats&count_private=true&include_all_commits=true)
 
 <!--
