@@ -5,7 +5,7 @@ Hi there! I'm a student at Faculty of Electrical Engineering and Computer Scienc
 - 🌱 I’m currently learning React
 
 
-[![Vinojkos GitHub stats](https://github-readme-stats.vercel.app/api?username=vinojko&count_private=true&include_all_commits=true)](https://github.com/vinojko/github-readme-stats&count_private=true&include_all_commits=true)
+[![Vinojkos GitHub stats](https://github-readme-stats.vercel.app/api?username=vinojko&count_private=true&include_all_commits=true)](https://github.com/vinojko/github-readme-stats)
 
 <!--
 **vinojko/vinojko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
