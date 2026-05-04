@@ -36,8 +36,3 @@ Claude Code · multi-agent workflows · structured prompting · refactoring supp
 
 I'm working as a Software Engineer at **Calda**, building production web and mobile products.
 
-## Connect
-
-- LinkedIn: https://linkedin.com/in/yourlinkedin
-- Portfolio: https://yourwebsite.com
-- Email: your@email.com
